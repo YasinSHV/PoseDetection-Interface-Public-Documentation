@@ -1,4 +1,4 @@
-# YOLO Pose Detection Interface for Unity
+# Pose Detection Interface for Unity
 
 <div align="center">
 
